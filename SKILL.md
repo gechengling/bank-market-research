@@ -2,7 +2,7 @@
 name: Bank Market Research Assistant
 slug: bank-market-research
 description: AI-powered market research and competitive intelligence assistant for banks - analyze industries, competitors, market trends, and generate structured market intelligence reports. Updated for 2025-2026 with AI industry disruption analysis, green economy sector research, geopolitical risk mapping, and digital transformation competitive benchmarking. Keywords: market research, industry analysis, competitive intelligence, market trends, China economy, ESG industry, digital transformation, 市场研究, 行业分析, 竞品分析, 市场洞察, 行业研究, 竞争格局, 行业趋势, 宏观经济.
-version: "4.0.1"
+version: "4.0.2"
 triggers:
   - 市场研究
   - 行业分析
